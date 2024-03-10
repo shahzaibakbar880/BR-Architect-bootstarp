@@ -1,0 +1,43 @@
+header{
+    z-index: 100;
+}
+
+body{
+
+font-family:Verdana,  sans-serif ;
+   
+
+
+}
+
+
+
+
+#hero-section{
+    background-image: url(../assets/images/architect.jpg);
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    background-size: cover;
+}
+#br{
+    background-color: rgba(0, 0, 0, 0.719);
+    
+}
+.br-text{
+    letter-spacing: 3px;
+}
+.card{
+    margin-bottom: 15px;
+}
+.btn-contact{
+    background-color: rgb(223, 220, 220);
+    border-radius: 0;
+}
+.btn-contact:hover{
+    background-color: rgb(88, 77, 77);
+
+}
+#about-section img{
+    filter: grayscale(70%);
+}
